@@ -7,3 +7,19 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 =======
 # nextjs-dashboard
 >>>>>>> origin/main
+
+
+## Check the git_commands permission
+```
+chmod +x git_commands.sh
+```
+
+## Run pnpm i to install the project's packages.
+```
+pnpm i
+```
+
+## Followed by pnpm dev to start the development server.
+```
+pnpm dev
+```
